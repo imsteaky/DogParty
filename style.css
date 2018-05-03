@@ -61,13 +61,20 @@ button {
 }
 
 .column1of3, .column2of3, .column3of3, img {
-  border-radius: 200px;
+  border-radius: 200%;
   width: 33.3%;
   align-content: center;
   text-align: center;
-  
 }
 
+.footer {
+  background-color: #248ba3;
+  margin-top: 20px;
+  padding: 10px 0px 5px 0px;
+  text-align: center;
+}
+
+/*
 footer {
   align-content: center;
   background-color: #248ba3;
