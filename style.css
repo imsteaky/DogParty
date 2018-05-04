@@ -20,6 +20,7 @@ nav {
 
 .nav:hover {
   background-color: black;
+  border: 15px;
 }
 
 ul {
@@ -34,7 +35,7 @@ h1 {
 }
 
 #landing {
-  background: url('images/park.jpg') no-repeat center fixed;
+  background: url('images/park.jpg') no-repeat center;
   background-size: cover;
   text-align: center;
 }
@@ -75,6 +76,7 @@ button {
   text-align: center;
   padding: 1.1%
 }
+
 section img {
   border-radius: 200%;
   width: 150px;
